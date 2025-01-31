@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { kullaniciOlustur } from '../features/yetkiSlice';
 import { useNavigate } from 'react-router-dom';
 
+
 const Login = () => {
   
 
@@ -70,7 +71,7 @@ navigate("/")
             type="submit"
             fullWidth
             variant="contained"
-            color="secondary"
+
             sx={{ mt: 3, mb: 2 }}
           >
             Sign In
