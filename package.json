@@ -1,5 +1,5 @@
 {
-  "homepage": "https://recep-demir.github.io/news-page",
+  "homepage": "https://recep-demir.github.io/news-page/",
   "name": "news-page",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "axios": "^1.7.9",
+    "deploy": "^1.0.3",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
